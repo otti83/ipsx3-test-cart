@@ -1,27 +1,16 @@
 # Installing iPSX3 Test Cart
 
-Two files are published; use **whichever is more convenient**. They contain the same program.
+## On an iPhone or iPad
 
-| File | Use it when |
-|---|---|
-| `iPSX3_Test_Cart.iso` | You want one file to copy. **Recommended.** Nothing to unpack. |
-| `iPSX3_Test_Cart_folder.zip` | You prefer the plain folder layout (`PS3_GAME/USRDIR/EBOOT.BIN`). |
-
-## On an iPhone or iPad — the .iso (3 steps)
-
-1. **Download.** In Safari, open the release page and tap `iPSX3_Test_Cart.iso`. Safari saves it to
-   **Files ▸ Downloads**.
-2. **Move it into iPSX3.** Open the **Files** app. Touch and hold `iPSX3_Test_Cart.iso` ▸ **Move** ▸
-   **On My iPhone/iPad ▸ iPSX3 ▸ Games**.
-3. **Play it.** Open **iPSX3**, go to the **Games** tab, and tap **iPSX3 Test Cart**.
-
-**PS3 system software is not required for this title.** It runs on a device that has never
-downloaded firmware, so you can test the emulator without installing anything else.
-
-### Using the .zip instead
-
-Same as above, except at step 2 touch and hold the `.zip` ▸ **Uncompress** first, then move the
-resulting **iPSX3 Test Cart** folder into **iPSX3 ▸ Games**.
+1. **Install the PS3 system software.** Open **iPSX3** ▸ **Firmware** tab ▸
+   **"Download from Sony…"** ▸ confirm ▸ wait for it to install. iPSX3 cannot start any title until
+   this is done. (Or tap "Choose Firmware File…" and pick a `PS3UPDAT.PUP` you already have.)
+2. **Download the ROM.** In Safari, open the release page and tap `iPSX3_Test_Cart.iso`. Safari
+   saves it to **Files ▸ Downloads**.
+3. **Move it into iPSX3.** Open the **Files** app. Touch and hold the file ▸ **Move** ▸
+   **On My iPhone / On My iPad ▸ iPSX3**. (Dropping it in **iPSX3 ▸ Games** works too — both
+   locations are scanned.)
+4. **Play it.** Open **iPSX3**, go to the **Games** tab, and tap **iPSX3 Test Cart**.
 
 ## What you should see
 

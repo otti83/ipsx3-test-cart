@@ -12,9 +12,12 @@ after GAME OVER.
 
 - It contains **no Sony code, assets, keys or SDK headers**, and none were used to build it.
 - It is **not** a commercial game, and it needs no game data.
-- It **does not need the PS3 system software installed.** It imports nothing from `dev_flash` — its
-  graphics go through the `sys_rsx_*` lv2 calls and its input through the `cellPad` HLE module — so
-  it runs on a device that has never downloaded firmware.
+- It is **not** built against any PS3 SDK. It imports nothing from `dev_flash`: graphics go through
+  the `sys_rsx_*` lv2 calls and input through the `cellPad` HLE module.
+
+  (The program itself has no firmware dependency, but **iPSX3 still requires the PS3 system
+  software to be installed before it will start any title** — install it from the Firmware tab
+  first. See `INSTALL.md`.)
 
 ## Licence
 
